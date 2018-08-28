@@ -1,0 +1,15 @@
+current directory: /Users/usukishuntasuku/Desktop/life_work/rails_tutorial/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/usukishuntasuku/.anyenv/envs/rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180828-12908-1yvn2j3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/usukishuntasuku/Desktop/life_work/rails_tutorial/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/usukishuntasuku/Desktop/life_work/rails_tutorial/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/usukishuntasuku/Desktop/life_work/rails_tutorial/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180828-12908-d3mj2c/bindex
